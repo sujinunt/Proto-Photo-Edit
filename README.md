@@ -3,7 +3,7 @@ Proto Photo editor is a program that can edit photo with simple feature. This pr
 
 ## Version 1.0
 * Draw with pencil
-* Draw square (left click then right click to place your square //can change scale)
+* Draw square (left click then right click to place your square //can change scale with your mouse motion)
 * Eraser
 * Change colors of pencil
 * Change colors of square
